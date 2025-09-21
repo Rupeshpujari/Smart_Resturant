@@ -10,14 +10,6 @@ A modern web-based restaurant ordering system built with Streamlit that allows c
 - **Real-time Order Tracking**: Add items to cart and see live bill calculation
 - **QR Code Generation**: Generate QR codes for bill payment and order tracking
 - **Session Management**: Maintains order state throughout the session
-
-## 🚀 Demo
-
-![Restaurant App Demo](interface.png)
-![Restaurant App Demo](dataimage.png)
-![Restaurant App Demo](price.png)
-![Restaurant App Demo](qr.png)
-
 ## 📋 Menu Categories
 
 - **Biryani & Rice Dishes** (Veg & Non-Veg)
@@ -216,5 +208,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ Don't forget to star this repository if you found it helpful!
+
 
 
