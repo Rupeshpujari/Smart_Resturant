@@ -210,11 +210,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-👨‍💻 **Developer:** Yennam Ram Bramha Reddy  
-📧 **Email:** rambrahmareddy.yennam.com  
-🔗 **GitHub:** [@RamBramhaReddy](https://github.com/RamBramhaReddy)  
-🚀 **Project:** [Smart Restaurant App](https://github.com/RamBramhaReddy/Smart-Restaurant-app)
+👨‍💻 **Developer:** Rupesh Pujari
+📧 **Email:** rupeshpujari5542@gmail.com  
+🔗 **GitHub:** (https://github.com/Rupeshpujari)  
 ---
 
 ⭐ Don't forget to star this repository if you found it helpful!
+
 
