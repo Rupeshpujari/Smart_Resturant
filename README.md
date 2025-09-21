@@ -54,12 +54,23 @@ A modern web-based restaurant ordering system built with Streamlit that allows c
 ## 📁 Project Structure
 
 ```
-smart-restaurant-app/
-│
-├── first.py              # Main Streamlit application
-├── menu.json            # Restaurant menu data
-├── requirements.txt     # Python dependencies
-└── README.md           # Project documentation
+Smart-Restaurant-app/
+├─ app/                   # app source (me.py or streamlit files)
+│  └─ me.py
+├─ assets/                # screenshots, GIFs, logos
+│  └─ screenshot.png
+├─ tests/                 # unit tests
+├─ docs/                  # optional docs or design notes
+├─ .github/
+│  ├─ workflows/ci.yml
+│  └─ PULL_REQUEST_TEMPLATE.md
+├─ requirements.txt
+├─ dev-requirements.txt   # flake8, pytest etc.
+├─ .gitignore
+├─ README.md
+├─ LICENSE
+└─ CONTRIBUTING.md
+
 ```
 
 ## 🔧 Technologies Used
@@ -206,3 +217,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ Don't forget to star this repository if you found it helpful!
+
