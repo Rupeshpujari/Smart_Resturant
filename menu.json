@@ -1,0 +1,346 @@
+{
+  "Biryani & Rice Dishes": {
+    "Veg": {
+      "Veg Biryani": {
+        "Half": 90,
+        "Full": 120,
+        "Jumbo": 220,
+        "Family Pack": 350
+      },
+      "Egg Biryani": {
+        "Half": 80,
+        "Full": 110
+      },
+      "Paneer Biryani": {
+        "Full": 180
+      },
+      "Jeera Rice": {
+        "Full": 100
+      },
+      "Plain Rice": {
+        "Full": 80
+      },
+      "Fried Rice (Egg)": {
+        "Full": 120
+      },
+      "Fried Rice (Veg)": {
+        "Full": 110
+      }
+    },
+    "Non-Veg": {
+      "Chicken Biryani": {
+        "Single": 150,
+        "Half": 126,
+        "Full": 210,
+        "Jumbo": 400,
+        "Family Pack": 600
+      },
+      "Mutton Biryani": {
+        "Half": 158,
+        "Full": 273,
+        "Family Pack": 450
+      },
+      "Prawns Biryani": {
+        "Full": 210
+      },
+      "Fried Rice (Chicken)": {
+        "Full": 140
+      }
+    }
+  },
+  "Mandhi": {
+    "Non-Veg": {
+      "Chicken Mandhi": {
+        "Half": 350,
+        "Full": 600
+      },
+      "Mutton Mandhi": {
+        "Half": 675,
+        "Full": 1100
+      },
+      "Juicy Mutton Mandhi": {
+        "Half (weekend only)": 675
+      },
+      "Fish Mandhi": {
+        "Full": 450
+      },
+      "Grilled Chicken Mandhi": {
+        "Full": 700
+      },
+      "Alfaham Chicken Mandhi": {
+        "Full": 600
+      },
+      "Special Chicken Mandhi": {
+        "Full": 850
+      },
+      "Chicken Kabsa": {
+        "Full": 280
+      },
+      "Mutton Kabsa": {
+        "Full": 380
+      }
+    }
+  },
+  "Indian Breads": {
+    "Veg": {
+      "Rumali Roti": {
+        "Standard": 20
+      },
+      "Butter Naan": {
+        "Standard": 40
+      },
+      "Plain Naan": {
+        "Standard": 35
+      },
+      "Tandoori Roti": {
+        "Standard": 25
+      },
+      "Lachha Paratha": {
+        "Standard": 40
+      },
+      "Stuffed Paratha": {
+        "Standard": 50
+      },
+      "Missi Roti": {
+        "Standard": 30
+      }
+    }
+  },
+  "Starters": {
+    "Veg": {
+      "Veg Spring Roll": {
+        "Standard": 110
+      },
+      "Paneer 65": {
+        "Standard": 130
+      },
+      "Chilli Paneer": {
+        "Standard": 140
+      },
+      "Veg Pakora": {
+        "Standard": 90
+      },
+      "Gobi Manchurian": {
+        "Standard": 110
+      },
+      "Veg Cutlet": {
+        "Standard": 90
+      },
+      "Hara Bhara Kebab": {
+        "Standard": 120
+      },
+      "Mushroom 65": {
+        "Standard": 120
+      }
+    },
+    "Non-Veg": {
+      "Chicken 65": {
+        "Standard": 160
+      },
+      "Chicken Manchurian": {
+        "Standard": 160
+      },
+      "Pepper Chicken": {
+        "Standard": 160
+      },
+      "Tangdi Kebab": {
+        "2 Pc": 130
+      },
+      "Grilled Chicken": {
+        "Half": 170,
+        "Full": 320
+      },
+      "Tandoori Chicken": {
+        "Half": 160,
+        "Full": 310
+      },
+      "Chicken Tikka": {
+        "Standard": 180
+      },
+      "Murg Malai Kebab": {
+        "Standard": 180
+      },
+      "Fish Tikka": {
+        "Standard": 250
+      },
+      "Prawns Fry": {
+        "Standard": 220
+      },
+      "Chicken Seekh Kebab": {
+        "Standard": 160
+      },
+      "Mutton Seekh Kebab": {
+        "Standard": 190
+      }
+    }
+  },
+  "Curries": {
+    "Veg": {
+      "Dal Fry": {
+        "Standard": 110
+      },
+      "Dal Tadka": {
+        "Standard": 120
+      },
+      "Paneer Butter Masala": {
+        "Standard": 160
+      },
+      "Paneer Tikka Masala": {
+        "Standard": 170
+      },
+      "Mix Veg Curry": {
+        "Standard": 130
+      },
+      "Bhindi Masala": {
+        "Standard": 120
+      },
+      "Mushroom Masala": {
+        "Standard": 140
+      },
+      "Aloo Gobi": {
+        "Standard": 110
+      }
+    },
+    "Non-Veg": {
+      "Butter Chicken": {
+        "Standard": 190
+      },
+      "Chicken Curry": {
+        "Standard": 170
+      },
+      "Andhra Chicken Curry": {
+        "Standard": 180
+      },
+      "Kadai Chicken": {
+        "Standard": 180
+      },
+      "Chicken Masala": {
+        "Standard": 170
+      },
+      "Chicken Korma": {
+        "Standard": 180
+      },
+      "Mutton Curry": {
+        "Standard": 220
+      },
+      "Mutton Rogan Josh": {
+        "Standard": 230
+      },
+      "Fish Curry": {
+        "Standard": 210
+      }
+    }
+  },
+  "Chinese Dishes": {
+    "Veg": {
+      "Egg Fried Rice": {
+        "Standard": 120
+      },
+      "Veg Fried Rice": {
+        "Standard": 110
+      },
+      "Veg Noodles": {
+        "Standard": 110
+      },
+      "Paneer Fried Rice": {
+        "Standard": 130
+      },
+      "Gobi Fried Rice": {
+        "Standard": 120
+      }
+    },
+    "Non-Veg": {
+      "Chicken Fried Rice": {
+        "Standard": 140
+      },
+      "Chicken Noodles": {
+        "Standard": 140
+      },
+      "Chilli Chicken": {
+        "Standard": 160
+      }
+    }
+  },
+  "Snacks/Shawarma & Sides": {
+    "Veg": {
+      "French Fries": {
+        "Standard": 80
+      },
+      "Veg Puff": {
+        "Standard": 30
+      },
+      "Egg Puff": {
+        "Standard": 40
+      }
+    },
+    "Non-Veg": {
+      "Chicken Shawarma": {
+        "Standard": 90
+      },
+      "Special Chicken Shawarma": {
+        "Standard": 110
+      },
+      "Chicken Rumali Shawarma": {
+        "Standard": 100
+      }
+    }
+  },
+  "Desserts & Beverages": {
+    "Veg": {
+      "Gulab Jamun": {
+        "Standard": 60
+      },
+      "Fruit Salad": {
+        "Standard": 80
+      },
+      "Double Ka Meetha": {
+        "Standard": 70
+      },
+      "Irani Chai": {
+        "Standard": 20
+      },
+      "Masala Chai": {
+        "Standard": 25
+      },
+      "Coffee": {
+        "Standard": 30
+      },
+      "Soft Drinks": {
+        "Standard": 30
+      },
+      "Mineral Water": {
+        "Standard": 20
+      }
+    }
+  },
+  "Water Bottles": {
+    "Cold": {
+      "Orio Hot & Cold Water Bottle": {
+        "750ml": 50
+      },
+      "Milton Thermosteel Bottle": {
+        "750ml": 60
+      },
+      "Oslo Hot & Cold Bottle": {
+        "750ml": 60
+      },
+      "Artisan/Vacuum Flask Brands": {
+        "1L": 70
+      }
+    },
+    "Normal": {
+      "Mineral Water": {
+        "1L": 25
+      },
+      "Glass Bottle Water": {
+        "1L": 50
+      },
+      "PET Water Bottle": {
+        "500ml": 15
+      },
+      "Commercial Packaged Water": {
+        "2L": 35
+      }
+    }
+  }
+}
